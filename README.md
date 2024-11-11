@@ -13,8 +13,3 @@ This project is a project developed as part of the **Programming and Design Proj
 - Created a **DDD Context Map** to represent dependencies between bounded contexts.
 - Created **UML Diagrams** (Component and Class) using.
 
-## Setup & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/backlog-management.git
-
